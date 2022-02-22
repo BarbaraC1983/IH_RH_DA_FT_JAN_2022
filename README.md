@@ -58,392 +58,7 @@
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 4</strong>
-<p>
-<strong>Week 4 | Day 5 `s Learning Objectives:</strong>
-<ul>
-
-<li>Hypothesis Testing - Two Sample Test
-
-<li>Recap
-
-<p>
-<strong>Week 4 | Day 4 `s Learning Objectives:</strong>
-<ul>
-
-<li>Hypothesis Testing
-
-<li>Model Validation
-
-<p>
-<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
-<ul>
-
-<li>Linear Regression.
-
-<li>Model Validation.
-
-<p>
-<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
-<ul>
-
-<li>Linear Regression.
-
-<li>Model Validation.
-
-<p>
-<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
-<ul>
-
-<li>Storytelling with Data
-
-<li>MongoDB
-
-<li>Machine Learning Intro.
-
-<li>Distributions.
-
-<li>Data Transformation.
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td>[Demo] No-SQL Databases MongoDB
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Machine Learning</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Probability Distributions</a> 
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Processing</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Notebook] Linear Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Improving Model Accuracy</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Notebook] Linear Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
-   </td>
-   <td>[Guest Speaker]
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1PrlLO9eH7x8B89YK7F8izNWDsrdhP_6A/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Hypothesis Testing</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
-   </td>
-   <td><a href="https://kahoot.it/">Kahoot</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Two Sample T-Test</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
-<p>
-<br>
-<p>
-Weekly Retro
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
-   </td>
-  </tr>
-</table>
-
-
-</details>
-
-<details>
-
-<summary>📅  &nbsp; Week 5 - Mid Term Project </summary>
-
-
-<table>
-  <tr>
-   <td colspan="5" ><strong>Week 5</strong>
-<p>
-<strong>Mid-Term Project</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td>Submitting project plans
-   </td>
-   <td>Work on the project
-   </td>
-   <td>Work on the project
-   </td>
-   <td>Work on the project
-   </td>
-   <td>Work on the project
-   </td>
-  </tr>
-  <tr>
-   <td>Work on the project
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Presentations
-   </td>
-  </tr>
-</table>
-
-
-</details>
-
-<details>
-
-<summary>📅  &nbsp; Week 6 - Song Recommender Project</summary>
-
-
-<table>
-  <tr>
-   <td colspan="5" ><strong><h1>Week 6</h1></strong>
-<p>
-<strong>Week 6 | Day 4 `s Learning Objectives:</strong>
-<ul>
-
-<li>Unsupervised Learning
-
-<li>K-means Algorithm
-
-<li>Saving/Loading Model using Pickle
-
-<p>
-<strong>Week 6 | Day 3 `s Learning Objectives:</strong>
-<ul>
-
-<li>APIs.
-
-<li>Spotify API.
-
-<li>JSON format overview.
-
-<li>Restful APIs
-
-<p>
-<strong>Week 6 | Day 2 `s Learning Objectives:</strong>
-<ul>
-
-<li>Web Scraping multiple pages
-
-<li>Python modules
-
-<p>
-<strong>Week 6 | Day 1 `s Learning Objectives:</strong>
-<ul>
-
-<li>Git ignore
-
-<li>Web Scraping
-
-<li>HTML, CSS
-
-<li>Beautiful Soap
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Web Scraping</a>
-<p>
-<br>
-<p>
-<a href="https://flukeout.github.io/">[Activity] CSS Selector</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Project Roadmap</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
-<p>
-<br>
-<p>
-[Code Along] Python Modules with VS Code
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1lKwvCn1j3QpXyBfxj7LdE6kiXHo2_tVa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lca6NwMuo6h05Xo64WjktE586vpfWZNI/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Spotipy</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lvdjdQ6anVkHGxaxq5Xzszt5syrp83w4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lx_Xt2qdD4ZRczJ8HMQdfoMBjMGBOXWl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1mWytiwOq3no4VY1l2NOyp_aDeeznXwbP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
-<p>
-<br>
-<p>
-[Weekly Retro]
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
-   </td>
-  </tr>
-</table>
-
-
-</details>
-
-<details>
-
-<summary>📅  &nbsp; Week 7 - Advanced ML Topics</summary>
-
-
-<table>
-  <tr>
-   <td colspan="5" ><strong><h1>Week 7</h1></strong>
+   <td colspan="5" ><strong><h2>Week 7</h2></strong>
 <p>
 <strong>Week 7 | Day 5 `s Learning Objectives:</strong>
 <ul>
@@ -475,8 +90,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <strong>Week 7 | Day 2 `s Learning Objectives:</strong>
 <ul>
-
-<li>PCA
 
 <li>Logistic regression 
 
@@ -538,11 +151,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1sbkM5fg-NJmwdkpV-bpLL0sExIWFn0Zz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] PCA</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
+   <td><a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
 <p>
 <br>
 <p>
@@ -550,15 +159,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Statistics_PCA.ipynb">[Notebook] PCA</a>
-<p>
-<br>
-<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data%20Processing/Lab/Lab_PCA_Example.ipynb">[LAB] (Optional) PCA</a>
 <p>
 <br>
 <p>
@@ -572,7 +173,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
 <p>
@@ -592,7 +193,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
-   <td>Kahoot
+   <td><a href="kahoot.it">Kahoot</a>
 <p>
 <br>
 <p>
@@ -635,7 +236,7 @@ It is Friday!! 🥳😎✌️
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 8</strong>
+   <td colspan="5" ><strong><h2>Week 8</h2></strong>
 <p>
 <strong>Week 8 | Day 2 `s Learning Objectives:</strong>
 <ul>
@@ -1068,7 +669,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Code_Along] Data_Pipelining</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Complete.ipynb">[Code_Along] Data_Pipelining</a>
 <p>
 <br>
 <p>
@@ -1113,7 +714,7 @@ Weekly Retro
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 3</strong>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 3</strong></h2>
 <p>
 <strong>Week 3 | Day 5 `s Learning Objectives:</strong>
 <ul>
@@ -1279,6 +880,405 @@ Weekly Retro
 <br>
 <p>
 <a href="https://public.tableau.com/de-de/s/interactive-resume-gallery">[Lab] [Optional] Resume using Tableau  </a>
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary>📅  &nbsp; Week 4 - Regression, Hypothesis Testing</summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 4</strong></h2>
+<p>
+<strong>Week 4 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Hypothesis Testing - Two Sample Test
+
+<li>Recap
+
+<p>
+<strong>Week 4 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Model Validation
+
+<li>Revisit StandardScaler fit and transform functions
+
+<li>Using the model to predict on a new unseen record.
+
+<li>Hypothesis Testing
+
+<p>
+<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Linear Regression.
+
+<li>Model Validation.
+
+<p>
+<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Linear Regression.
+
+<li>Model Validation.
+
+<p>
+<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Storytelling with Data
+
+<li>MongoDB
+
+<li>Machine Learning Intro.
+
+<li>Distributions.
+
+<li>Data Transformation.
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td>[Demo] No-SQL Databases MongoDB
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Machine Learning</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Probability Distributions</a> 
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Processing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Improving Model Accuracy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+   </td>
+   <td>[Guest Speaker]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1PrlLO9eH7x8B89YK7F8izNWDsrdhP_6A/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Hypothesis Testing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+   </td>
+   <td><a href="https://kahoot.it/">Kahoot</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Two Sample T-Test</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
+<p>
+<br>
+<p>
+Weekly Retro
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary>📅  &nbsp; Week 5 - Mid Term Project </summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 5</strong></h2>
+<p>
+                                                        <h2>📅 &nbsp;  <strong>Mid-Term Project</strong></h2>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td>Submitting project plans
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+  </tr>
+  <tr>
+   <td>Work on the project
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Presentations
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary>📅  &nbsp; Week 6 - Song Recommender </summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong><h2>Week 6</h2></strong>
+<p>
+<strong>Week 6 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Weekly Recap
+
+<li>Working on the product
+
+<p>
+<strong>Week 6 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Unsupervised Learning
+
+<li>K-means Algorithm
+
+<li>Saving/Loading Model using Pickle
+
+<p>
+<strong>Week 6 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>APIs.
+
+<li>Spotify API.
+
+<li>JSON format overview.
+
+<li>Restful APIs
+
+<p>
+<strong>Week 6 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Web Scraping multiple pages
+
+<li>Python modules
+
+<p>
+<strong>Week 6 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Git ignore
+
+<li>Web Scraping
+
+<li>HTML, CSS
+
+<li>Beautiful Soap
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Web Scraping</a>
+<p>
+<br>
+<p>
+<a href="https://flukeout.github.io/">[Activity] CSS Selector</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Project Roadmap</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+<p>
+<br>
+<p>
+[Code Along] Python Modules with VS Code
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1lKwvCn1j3QpXyBfxj7LdE6kiXHo2_tVa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lca6NwMuo6h05Xo64WjktE586vpfWZNI/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Spotipy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lvdjdQ6anVkHGxaxq5Xzszt5syrp83w4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lx_Xt2qdD4ZRczJ8HMQdfoMBjMGBOXWl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1mWytiwOq3no4VY1l2NOyp_aDeeznXwbP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
+<p>
+<br>
+<p>
+[Weekly Retro]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
    </td>
   </tr>
 </table>
